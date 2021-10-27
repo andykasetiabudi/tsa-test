@@ -3,6 +3,7 @@ This is a repository for TemanStartup Academy Test.
 ## Task
 
 You are required to fetch all the data that we provide from API Mock and create the best looking Single Page Web page with Teman Startup Academy Logo.
+Only develop mobile version for this project. You can ignore the styling on the Desktop size/version.
 
 Page Purpose:
 

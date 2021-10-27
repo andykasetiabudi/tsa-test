@@ -1,6 +1,38 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+This is a repository for TemanStartup Academy Test.
+
+## Task
+
+You are required to fetch all the data that we provide from API Mock and create the best looking Single Page Web page with Teman Startup Academy Logo.
+
+Page Purpose:
+
+```bash
+This page purpose is to display the course detail and embed the video that provided with video player widget.
+```
+
+You can use CSS Library that you confident with (e.g., Bootstrap, TailwindCSS)
+
+Mock API: https://61790482aa7f3400174046cc.mockapi.io/tsa/courseItem
+This API will resulted in JSON Object as response:
+
+```bash
+[{"courseName":"Business 101","courseDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat","courseCategory":"Business","courseVideos":[{"videoTitle":"How to Build Business","video":"https://instagram.com"}],"id":"1"}]
+```
+
+## How To
+
+You are required to clone and create a new branch with your name on this repository.
+After you've done with the task, the project must be pushed back to your branch for our scoring purpose.
+
+Scoring parameter would be:
+
+- Clean and Tidy Code
+- Interface Development
+- Time needed on the project
+
+## To Run the Project
 
 First, run the development server:
 

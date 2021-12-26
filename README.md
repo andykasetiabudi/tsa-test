@@ -17,7 +17,7 @@ Mock API: https://61790482aa7f3400174046cc.mockapi.io/tsa/courseItem
 This API will resulted in JSON Object as response:
 
 ```bash
-[{"courseName":"Business 101","courseDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat","courseCategory":"Business","courseVideos":[{"videoTitle":"How to Build Business","video":"https://instagram.com"}],"id":"1"}]
+[{"videoDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat","videoTitle":"How to Build Business","video":"https://academytemanstartup-testbucket.s3.ap-southeast-1.amazonaws.com/testfolder/Lei+trailer+fix.mp4","id":"1"}]
 ```
 
 ## How To

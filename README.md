@@ -10,6 +10,8 @@ Page Purpose:
 ```bash
 This page purpose is to display the course detail and embed the video that provided with video player widget.
 ```
+Please follow this reference for the app page interface that you'll created. 
+https://www.figma.com/file/bzG7QxNNXz2PebeFVGQgmH/TSA-Test?node-id=0%3A1
 
 You can use CSS Library that you confident with (e.g., Bootstrap, TailwindCSS)
 
